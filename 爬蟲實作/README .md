@@ -15,6 +15,6 @@
 	- 存取的結果改變成json 格式,供日後練習串api 做使用 
 	- 爬取較多頁資料時,效率還是太慢
 
-[demo 連結](https://youtu.be/qnOK7fk6btI)
+[demo 影片](https://youtu.be/AJCzqfUkO3g)
 
 以上僅供研究專題使用,如有不妥,歡迎告知,謝謝!!
